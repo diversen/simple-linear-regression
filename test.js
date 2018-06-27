@@ -18,6 +18,7 @@ console.log(regressionLine(x, y))
 // y^= ax + b
 // => { a: 61.27218654211061, b: -39.06195591884391 }
 
+// Example from: https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics)
 x = [1, 2, 3, 4]
 y = [6, 5, 7, 10]
 
