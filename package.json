@@ -1,0 +1,27 @@
+{
+  "name": "simple-linear-regression",
+  "version": "1.0.0",
+  "description": "Calculate a very simple regression line from bivariate data",
+  "main": "index.js",
+  "dependencies": {
+    "correlation-coefficient-r": "^1.0.0",
+    "math-standard-deviation": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/simple-linear-regression.git"
+  },
+  "keywords": [
+    "linear-regression"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/simple-linear-regression/issues"
+  },
+  "homepage": "https://github.com/diversen/simple-linear-regression#readme"
+}
