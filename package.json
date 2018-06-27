@@ -1,6 +1,6 @@
 {
   "name": "simple-linear-regression",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calculate a very simple regression line from bivariate data",
   "main": "index.js",
   "dependencies": {
@@ -16,7 +16,8 @@
     "url": "git+https://github.com/diversen/simple-linear-regression.git"
   },
   "keywords": [
-    "linear-regression"
+    "linear-regression",
+    "linear least squares"
   ],
   "author": "Dennis Iversen",
   "license": "MIT",

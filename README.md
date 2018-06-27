@@ -1,8 +1,10 @@
 # simple-regression-line
 
-Calculate a very simple regression line from bivariate data: 
+Calculate a very simple regression line from bivariate data.
 
-See: [Simple linear regression](https://en.wikipedia.org/wiki/Simple_linear_regression)
+This function uses the 'equation of the least-squares line'
+
+See: [Linear least squares](https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics))
 
 ## Install: 
 
