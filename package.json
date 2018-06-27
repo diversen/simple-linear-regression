@@ -1,6 +1,6 @@
 {
   "name": "simple-linear-regression",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate a very simple regression line from bivariate data",
   "main": "index.js",
   "dependencies": {

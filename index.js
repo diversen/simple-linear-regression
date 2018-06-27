@@ -1,7 +1,7 @@
 var deviation = require('math-standard-deviation');
 var correlationCoefficientR = require('correlation-coefficient-r');
 
-function regressionLine (x, y) {
+function simpleLinearRegression (x, y) {
 
     var xMean = deviation.mean(x)
     var yMean = deviation.mean(y)
@@ -20,4 +20,4 @@ function regressionLine (x, y) {
     }
 }
 
-module.exports = regressionLine
+module.exports = simpleLinearRegression
