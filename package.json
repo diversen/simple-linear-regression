@@ -1,7 +1,7 @@
 {
   "name": "simple-linear-regression",
-  "version": "1.0.2",
-  "description": "Calculate a very simple regression line from bivariate data",
+  "version": "1.0.3",
+  "description": "nodejs module for calculating a simple regression line from bivariate data using the 'linear least squares' function",
   "main": "index.js",
   "dependencies": {
     "correlation-coefficient-r": "^1.0.0",
